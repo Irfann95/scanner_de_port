@@ -16,11 +16,6 @@ Scan results will be displayed in the text area, indicating open ports.
 Python 3.x
 Tkinter library (usually included with Python)
 Internet access to resolve hostnames into IP addresses
-Screenshot
-Port Scanner Interface Screenshot
-
-<h3>Note</h3>
-This port scanner is intended for educational and demonstration purposes. Please use it responsibly and adhere to local laws and regulations when using it.
 
 
 
